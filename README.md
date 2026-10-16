@@ -18,11 +18,7 @@ Sends one email per recruiter from `recruiters.csv`, with your resume PDF attach
 4. Go to **APIs & Services → Credentials → Create Credentials → OAuth client ID**.
 5. Choose **Desktop app**, download the JSON, and save it in this folder as `credentials.json`.
 
-<<<<<<< HEAD
-This setup will charge Rs. 2 for setting up autopay, rest assured no more charges from google for sending mails(says on their official page).
-=======
 This setup will charge Rs. 2 for setting up autopay, rest assured no more charges from google for sending mails(says on their official page), although there is a rate limiter for 500 messages I guess.
->>>>>>> bd1421e08d3e7f569764b692cd8e24f38b4d8c75
 
 Official guides:
 - Gmail API sending: https://developers.google.com/workspace/gmail/api/guides/sending
