@@ -1,3 +1,7 @@
 credentials.json
 token.json
+<<<<<<< HEAD
 sent_emails.txt
+=======
+sent_emails.txt
+>>>>>>> bd1421e08d3e7f569764b692cd8e24f38b4d8c75
